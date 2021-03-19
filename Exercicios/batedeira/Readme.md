@@ -1,0 +1,1 @@
+## Batedeira planetária 
