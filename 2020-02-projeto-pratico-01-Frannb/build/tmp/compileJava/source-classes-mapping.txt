@@ -1,0 +1,14 @@
+poo/Misc.java
+ poo.Misc
+poo/Techreport.java
+ poo.Techreport
+poo/Book.java
+ poo.Book
+poo/Base.java
+ poo.Base
+poo/Principal.java
+ poo.Principal
+poo/Article.java
+ poo.Article
+poo/Masterthesis.java
+ poo.Masterthesis
